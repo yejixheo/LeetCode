@@ -3,7 +3,7 @@
 | Property | Details |
 |----------|--------|
 | **Date Solved** | May 12, 2025 |
-| **Difficulty** | Easy |
+| **Difficulty** | Medium |
 | **Topic** | Array |
 | **URL** | [LeetCode Problem](https://leetcode.com/problems/product-of-array-except-self/description/) |
 
