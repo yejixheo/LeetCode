@@ -2,9 +2,9 @@
 
 A curated collection of my solved LeetCode problems - organized by topic with detailed solutions and analysis.
 
-![Problems Solved](https://img.shields.io/badge/Solved-10-yellow?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Solved-11-yellow?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
-![Last Update](https://img.shields.io/badge/Last_Update-May_15_2025-green?style=flat-square)
+![Last Update](https://img.shields.io/badge/Last_Update-May_16_2025-green?style=flat-square)
 
 
 | # | Title | Difficulty | Tags | Date | Link |
@@ -19,3 +19,4 @@ A curated collection of my solved LeetCode problems - organized by topic with de
 | 287 | Find the Duplicate Number | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) ![BinarySearch](https://img.shields.io/badge/BinarySearch-lightgrey?style=flat-square) ![TwoPointer](https://img.shields.io/badge/TwoPointer-purple?style=flat-square) | May 13, 2025 | [Array/0287_Find_the_Duplicate_Number.md](./Array/0287_Find_the_Duplicate_Number.md) |
 | 442 | Find All Duplicates in an Array | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 14, 2025 | [Array/0442_Find_All_Duplicates.md](./Array/0442_Find_All_Duplicates.md) |
 | 73 | Set Matrix Zeroes | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 15, 2025 | [Array/0073_Set_Matrix_Zeroes.md](./Array/0073_Set_Matrix_Zeroes.md) |
+| 54 | Spiral Matrix | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 16, 2025 | [Array/0054_Spiral_Matrix.md](./Array/0054_Spiral_Matrix.md) |
