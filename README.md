@@ -2,9 +2,9 @@
 
 A curated collection of my solved LeetCode problems - organized by topic with detailed solutions and analysis.
 
-![Problems Solved](https://img.shields.io/badge/Solved-11-yellow?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Solved-12-yellow?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
-![Last Update](https://img.shields.io/badge/Last_Update-May_16_2025-green?style=flat-square)
+![Last Update](https://img.shields.io/badge/Last_Update-May_20_2025-green?style=flat-square)
 
 
 | # | Title | Difficulty | Tags | Date | Link |
@@ -20,3 +20,4 @@ A curated collection of my solved LeetCode problems - organized by topic with de
 | 442 | Find All Duplicates in an Array | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 14, 2025 | [Array/0442_Find_All_Duplicates.md](./Array/0442_Find_All_Duplicates.md) |
 | 73 | Set Matrix Zeroes | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 15, 2025 | [Array/0073_Set_Matrix_Zeroes.md](./Array/0073_Set_Matrix_Zeroes.md) |
 | 54 | Spiral Matrix | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 16, 2025 | [Array/0054_Spiral_Matrix.md](./Array/0054_Spiral_Matrix.md) |
+| 48 | Rotate Image | Medium | ![Array](https://img.shields.io/badge/Array-blue?style=flat-square) | May 20, 2025 | [Array/0048_Rotate_Image.md](./Array/0048_Rotate_Image.md) |
